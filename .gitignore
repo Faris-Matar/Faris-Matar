@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Portrait pipeline: intermediate + source. The committed portrait-ascii.svg
+# is the artifact; re-run scripts/prep_photo.py + scripts/make_ascii_svg.py
+# locally to regenerate it. source-photo.jpg stays out of the public repo.
+prepped.png
+source-photo.jpg
+
+# rembg model cache
+.u2net/
+
+# Local preview harness, served with `python -m http.server`
+_preview.html
+_*.svg
+_*.html
+httpserver.log
+
+# OS
+.DS_Store
