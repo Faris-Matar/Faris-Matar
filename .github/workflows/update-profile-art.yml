@@ -18,9 +18,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      # Only the two light deps -- this job never touches the portrait
-      # pipeline (pillow / numpy / opencv / rembg), so don't install it.
-      - run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+      - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
       - uses: stefanzweifel/git-auto-commit-action@v5
