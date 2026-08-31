@@ -134,13 +134,13 @@ def build() -> str:
     p.append(f'<title>{USER}@{HOST}</title>')
 
     if not STATIC:
-        # fill-mode:both -> a clean cascade that matches the portrait's type-in
-        # (they sit side by side and read as one reveal). Non-animating file
-        # previews should use STATIC=1.
+        # fill-mode:forwards + positive per-line delay: a renderer that freezes
+        # SVGs at t=0 (some file previews) still shows every line at its natural
+        # opacity instead of a blank card; real browsers play the cascade.
         p.append(
             '<style>'
             '.ln{animation-name:lnIn;animation-duration:.42s;'
-            'animation-timing-function:ease-out;animation-fill-mode:both;'
+            'animation-timing-function:ease-out;animation-fill-mode:forwards;'
             'animation-delay:var(--d,0s)}'
             '@keyframes lnIn{'
             'from{opacity:0;transform:translateX(-9px)}'

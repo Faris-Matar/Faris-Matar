@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="650" height="317" viewBox="0 0 650 317" role="img" aria-label="faris-matar@github info card">
 <title>faris-matar@github</title>
-<style>.ln{animation-name:lnIn;animation-duration:.42s;animation-timing-function:ease-out;animation-fill-mode:both;animation-delay:var(--d,0s)}@keyframes lnIn{from{opacity:0;transform:translateX(-9px)}to{opacity:1;transform:translateX(0)}}@media(prefers-reduced-motion:reduce){.ln{animation:none}}</style>
+<style>.ln{animation-name:lnIn;animation-duration:.42s;animation-timing-function:ease-out;animation-fill-mode:forwards;animation-delay:var(--d,0s)}@keyframes lnIn{from{opacity:0;transform:translateX(-9px)}to{opacity:1;transform:translateX(0)}}@media(prefers-reduced-motion:reduce){.ln{animation:none}}</style>
 <rect x="0.5" y="0.5" width="649" height="316" rx="10" fill="#0d1117" stroke="#30363d"/>
 <path d="M0 10 Q0 0 10 0 H640 Q650 0 650 10 V32 H0 Z" fill="#161b22"/>
 <line x1="0" y1="32" x2="650" y2="32" stroke="#30363d"/>
