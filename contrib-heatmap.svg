@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="801" height="179" viewBox="0 0 801 179" role="img" aria-label="Faris-Matar GitHub contribution heatmap">
-<title>53 contributions in the last year</title>
+<title>54 contributions in the last year</title>
 <style>.cell{animation-name:cellIn;animation-duration:.36s;animation-timing-function:ease-out;animation-fill-mode:forwards;animation-delay:var(--d,0s)}@keyframes cellIn{from{opacity:.15;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.cell{animation:none}}</style>
 <rect x="0.5" y="0.5" width="800" height="178" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="60" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Sep</text>
-<text x="116" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Oct</text>
-<text x="172" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Nov</text>
-<text x="242" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Dec</text>
-<text x="298" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jan</text>
-<text x="354" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Feb</text>
-<text x="410" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Mar</text>
-<text x="480" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Apr</text>
-<text x="536" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">May</text>
-<text x="606" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jun</text>
-<text x="662" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jul</text>
-<text x="718" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Aug</text>
+<text x="46" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Sep</text>
+<text x="102" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Oct</text>
+<text x="158" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Nov</text>
+<text x="228" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Dec</text>
+<text x="284" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jan</text>
+<text x="340" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Feb</text>
+<text x="396" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Mar</text>
+<text x="466" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Apr</text>
+<text x="522" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">May</text>
+<text x="592" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jun</text>
+<text x="648" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Jul</text>
+<text x="704" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Aug</text>
+<text x="774" y="28" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8b949e">Sep</text>
 <text x="16" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#8b949e">Mon</text>
 <text x="16" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#8b949e">Wed</text>
 <text x="16" y="114" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#8b949e">Fri</text>
@@ -250,41 +251,41 @@
 <rect class="cell" style="--d:0.56s" x="448" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.57s" x="448" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.51s" x="462" y="0" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.52s" x="462" y="14" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.52s" x="462" y="14" width="11" height="11" rx="2" fill="#006d32"/>
 <rect class="cell" style="--d:0.53s" x="462" y="28" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.55s" x="462" y="42" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.55s" x="462" y="42" width="11" height="11" rx="2" fill="#006d32"/>
 <rect class="cell" style="--d:0.56s" x="462" y="56" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.57s" x="462" y="70" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.58s" x="462" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.57s" x="462" y="70" width="11" height="11" rx="2" fill="#39d353"/>
+<rect class="cell" style="--d:0.58s" x="462" y="84" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect class="cell" style="--d:0.52s" x="476" y="0" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.53s" x="476" y="14" width="11" height="11" rx="2" fill="#006d32"/>
-<rect class="cell" style="--d:0.55s" x="476" y="28" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.53s" x="476" y="14" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.55s" x="476" y="28" width="11" height="11" rx="2" fill="#006d32"/>
 <rect class="cell" style="--d:0.56s" x="476" y="42" width="11" height="11" rx="2" fill="#006d32"/>
-<rect class="cell" style="--d:0.57s" x="476" y="56" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.58s" x="476" y="70" width="11" height="11" rx="2" fill="#39d353"/>
-<rect class="cell" style="--d:0.59s" x="476" y="84" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.57s" x="476" y="56" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.58s" x="476" y="70" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.59s" x="476" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.53s" x="490" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.55s" x="490" y="14" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.56s" x="490" y="28" width="11" height="11" rx="2" fill="#006d32"/>
-<rect class="cell" style="--d:0.57s" x="490" y="42" width="11" height="11" rx="2" fill="#006d32"/>
-<rect class="cell" style="--d:0.58s" x="490" y="56" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.56s" x="490" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.57s" x="490" y="42" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.58s" x="490" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.59s" x="490" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="490" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.55s" x="504" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.56s" x="504" y="14" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.57s" x="504" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.57s" x="504" y="28" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.58s" x="504" y="42" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.59s" x="504" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="504" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.61s" x="504" y="84" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.56s" x="518" y="0" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.56s" x="518" y="0" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect class="cell" style="--d:0.57s" x="518" y="14" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.58s" x="518" y="28" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.59s" x="518" y="42" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="518" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.61s" x="518" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.62s" x="518" y="84" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.57s" x="532" y="0" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.57s" x="532" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.58s" x="532" y="14" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.59s" x="532" y="28" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="532" y="42" width="11" height="11" rx="2" fill="#161b22"/>
@@ -295,19 +296,19 @@
 <rect class="cell" style="--d:0.59s" x="546" y="14" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="546" y="28" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.61s" x="546" y="42" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.62s" x="546" y="56" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.63s" x="546" y="70" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.62s" x="546" y="56" width="11" height="11" rx="2" fill="#006d32"/>
+<rect class="cell" style="--d:0.63s" x="546" y="70" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect class="cell" style="--d:0.65s" x="546" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.59s" x="560" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="560" y="14" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.61s" x="560" y="28" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.61s" x="560" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect class="cell" style="--d:0.62s" x="560" y="42" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.63s" x="560" y="56" width="11" height="11" rx="2" fill="#006d32"/>
-<rect class="cell" style="--d:0.65s" x="560" y="70" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.63s" x="560" y="56" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.65s" x="560" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.66s" x="560" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.60s" x="574" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.61s" x="574" y="14" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.62s" x="574" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.62s" x="574" y="28" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.63s" x="574" y="42" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.65s" x="574" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.66s" x="574" y="70" width="11" height="11" rx="2" fill="#161b22"/>
@@ -375,22 +376,16 @@
 <rect class="cell" style="--d:0.74s" x="700" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.76s" x="700" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect class="cell" style="--d:0.77s" x="700" y="84" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.71s" x="714" y="0" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.72s" x="714" y="14" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.73s" x="714" y="28" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.74s" x="714" y="42" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.76s" x="714" y="56" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.77s" x="714" y="70" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.78s" x="714" y="84" width="11" height="11" rx="2" fill="#161b22"/>
-<rect class="cell" style="--d:0.72s" x="728" y="0" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect class="cell" style="--d:0.73s" x="728" y="14" width="11" height="11" rx="2" fill="#69f0a0"/>
-<rect class="cell" style="--d:0.74s" x="728" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect class="cell" style="--d:0.76s" x="728" y="42" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect class="cell" style="--d:0.77s" x="728" y="56" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect class="cell" style="--d:0.78s" x="728" y="70" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect class="cell" style="--d:0.79s" x="728" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect class="cell" style="--d:0.71s" x="714" y="0" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.72s" x="714" y="14" width="11" height="11" rx="2" fill="#69f0a0"/>
+<rect class="cell" style="--d:0.73s" x="714" y="28" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.74s" x="714" y="42" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.76s" x="714" y="56" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.77s" x="714" y="70" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.78s" x="714" y="84" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect class="cell" style="--d:0.72s" x="728" y="0" width="11" height="11" rx="2" fill="#161b22"/>
 </g>
-<text x="46" y="155" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6e7681">53 contributions in the last year  ·  18 active days  ·  longest streak 6 days  ·  current 6 days</text>
+<text x="46" y="155" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6e7681">54 contributions in the last year  ·  19 active days  ·  longest streak 7 days  ·  current 7 days</text>
 <text x="647" y="155" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6e7681">Less</text>
 <rect x="677" y="146" width="10" height="10" rx="2" fill="#161b22"/>
 <rect x="690" y="146" width="10" height="10" rx="2" fill="#0e4429"/>
